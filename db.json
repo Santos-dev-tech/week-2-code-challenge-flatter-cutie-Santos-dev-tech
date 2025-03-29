@@ -1,33 +1,52 @@
 {
   "characters": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Mr. Cute",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "image": "https://i.pinimg.com/474x/82/e7/d5/82e7d52336cff4e9d9fa9dfc7d307790.jpg",
       "votes": 0
     },
     {
-      "id": 2,
-      "name": "Mx. Monkey",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "id": "2",
+      
+      "name": "Mr. Monkey",
+      "image": "https://i.pinimg.com/474x/0f/b2/1c/0fb21c1e63b886ea08a1038ee567b884.jpg",
       "votes": 0
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ms. Zebra",
-      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "image": "https://i.pinimg.com/474x/74/d3/7a/74d37aa8024a2c774428cd0897865b4c.jpg",
       "votes": 0
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Dr. Lion",
-      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "image": "https://i.pinimg.com/474x/f5/e0/78/f5e0788493a2235ebe07a111826011d6.jpg",
       "votes": 0
     },
     {
-      "id": 5,
-      "name": "Mme. Panda",
-      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "id": "5",
+      "name": "Mr. Panda",
+      "image": "https://i.pinimg.com/474x/68/4f/46/684f466e5d1c12519173c928a7a11535.jpg",
+      "votes": 0
+    },
+    {
+      "id": "9f26",
+      "name": "",
+      "image": "",
+      "votes": 0
+    },
+    {
+      "id": "47b2",
+      "name": "",
+      "image": "",
+      "votes": 0
+    },
+    {
+      "id": "004a",
+      "name": "",
+      "image": "",
       "votes": 0
     }
   ]
